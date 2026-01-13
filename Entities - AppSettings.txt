@@ -1,0 +1,26 @@
+{
+  "name": "AppSettings",
+  "type": "object",
+  "properties": {
+    "titulo_cronograma": {
+      "type": "string",
+      "description": "T\u00edtulo do cronograma",
+      "default": "Cronograma do Projeto"
+    },
+    "titulo_graficos": {
+      "type": "string",
+      "description": "T\u00edtulo da p\u00e1gina de gr\u00e1ficos",
+      "default": "Analytics do Projeto"
+    },
+    "titulo_flashcards": {
+      "type": "string",
+      "description": "T\u00edtulo da p\u00e1gina de flashcards",
+      "default": "Vis\u00e3o Geral Gerencial"
+    },
+    "logo_url": {
+      "type": "string",
+      "description": "URL da logo do projeto"
+    }
+  },
+  "required": []
+}
